@@ -1,6 +1,6 @@
-##What I learned?
+## What I learned?
 -Autolayout
-##What I learned?
+## What I created?
 A simple calculator app.
 ## Portrait
 
