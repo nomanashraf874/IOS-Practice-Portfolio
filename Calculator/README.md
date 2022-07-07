@@ -1,7 +1,11 @@
-## What I learned?
--Autolayout
-## What I created?
+# Calculator 
+
 A simple calculator app.
+
+## What I learned?
+
+-Autolayout
+
 ## Portrait
 
 ![Portrait](Documentation/Portrait.png)
