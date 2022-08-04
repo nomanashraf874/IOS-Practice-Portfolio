@@ -17,7 +17,7 @@ A beautiful, dark-mode enabled weather app. You'll be able to check the weather 
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
 
-## Checkpoints
+## User Stories
 
 - [x] A dark-mode enabled app.
 - [x] Use Core Location to get the current location from the phone GPS.
