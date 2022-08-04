@@ -15,7 +15,7 @@ Flash Chat is an internet based messaging app similar to WhatsApp.Firebase Fires
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
 
-## Features
+## User Stories
 - [x] User can Login.
 - [x] User can Logout.
 - [x] Add and retrieve messages from database.
