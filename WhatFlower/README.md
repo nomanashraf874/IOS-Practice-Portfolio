@@ -17,6 +17,7 @@ An iOS App using Machine Learning caffemodel from oxford named 'oxford102' to id
 - [x] Get a basic description of flower from Wikipedia(WikipediaAPI)
 
 ## Using Camera (Physical Device)
+![7mb](https://user-images.githubusercontent.com/73111863/186002732-cd56793a-55df-4813-a3f6-67fbcdae004a.gif)
 
 ## Using PhotoLibrary
 ![sim](https://user-images.githubusercontent.com/73111863/186000628-a990408b-a46c-4efa-a421-48f87efb0bc8.gif)
